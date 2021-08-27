@@ -1,6 +1,6 @@
 # C2PA and EasyCLA
 
-The C2PA Steering Committee has adopted IPR policies for [Individual]() and [Corporate]() contributors to C2PA working groups, repositories and work documents. These documents are referred to below as the CLAs.
+The C2PA Steering Committee has adopted IPR policies for [Individual]() and [Corporate]() contributors to C2PA working groups, repositories and work items. These documents are referred to below as the CLAs.
 
 The C2PA uses [EasyCLA](https://lfcla.com) to ensure that all contributors have signed the appropriate documents when contributing to this project. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our project communities:
 
