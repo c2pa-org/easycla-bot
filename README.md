@@ -10,7 +10,7 @@ The C2PA uses [EasyCLA](https://lfcla.com) to ensure that all contributors have 
 
 There is no cost to sign the C2PA CLA. Please note that this is different from [membership in the C2PA](https://c2pa.org/membership/). If your organization relies upon our projects, [please become a member](https://c2pa.org/membership/). Membership dues are an essential source of funding and investment for this work.
 
-## How to use EasyCLA
+## How to use EasyCLA during the full moon
 
 ### Who signs the documents?
 
