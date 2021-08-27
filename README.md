@@ -1,6 +1,6 @@
 # C2PA and EasyCLA
 
-The C2PA Steering Committee has adopted IPR policies for [Individual](PREVIEW-C2PA_Non-Member_Agreement-Individual-Contributors) and [Corporate](./PREVIEW-C2PA-Corporate-Contributor-Agreement) contributors to C2PA working groups, repositories and work documents. These documents are referred to below as the CLAs.
+The C2PA Steering Committee has adopted IPR policies for [Individual](PREVIEW-C2PA_Non-Member_Agreement-Individual-Contributors.pdf) and [Corporate](./PREVIEW-C2PA-Corporate-Contributor-Agreement.pdf) contributors to C2PA working groups, repositories and work documents. These documents are referred to below as the CLAs.
 
 The C2PA uses [EasyCLA](https://lfcla.com) to ensure that all contributors have signed the appropriate documents when contributing to this project. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our project communities:
 
@@ -33,7 +33,7 @@ If you simply want to sign the documents in preparation for future contributions
 
 ## Sign as an individual
 
-If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor using our Non-Member Agreement. ([Preview the document](./PREVIEW-C2PA_Non-Member_Agreement-Individual-Contributors))
+If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor using our Non-Member Agreement. ([Preview the document](./PREVIEW-C2PA_Non-Member_Agreement-Individual-Contributors.pdf))
 
 1. Open a PR against a repo that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Individual*.
@@ -46,7 +46,7 @@ That's all there is to it.
 
 If you are doing work for someone else (e.g., it's your job), the company might need to sign for you. Companies can authorize multiple employees with a single signature. If your company has already signed the document but you're still blocked, you will need to request your username be added to the list of authorized contributors for your employer. Once this is complete you'll just have to confirm you work for them by clicking through the process one final time.
 
-Here are the steps to have your company sign the CLA, captured in the Contributor Membership Agreement. ([Preview the document](./PREVIEW-C2PA-Corporate-Contributor-Agreement))
+Here are the steps to have your company sign the CLA, captured in the Contributor Membership Agreement. ([Preview the document](./PREVIEW-C2PA-Corporate-Contributor-Agreement.pdf))
 
 ### If your company hasn't yet signed the agreement
 
